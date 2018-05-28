@@ -1,0 +1,13 @@
+alienware_vm/
+alienware_vm_release/
+ball/
+debug/
+lab_vm/
+build/
+
+*.pb.h
+*.pb.cc
+*.txt.user
+*.txt.user.*
+sublime.sublime-workspace
+sublime.sublime-project
